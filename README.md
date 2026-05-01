@@ -128,7 +128,22 @@ O design do protótipo foi pensado com base em princípios de IHC e usabilidade 
 1. Acessa a **Home**
 2. Clica em **Central de Replays**
 3. Escolhe o lance desejado  
-4. Assiste o vídeo  
+4. Assiste o vídeo
+
+---
+
+## 🧠 Reflexão de IHC
+
+Em um ambiente com muito barulho e distrações, o layout foi pensado para reduzir a carga cognitiva do usuário.
+
+Para isso, utilizamos:
+- Interface simples e sem excesso de informação  
+- Hierarquia visual clara (informações principais no topo)  
+- Botões grandes e fáceis de identificar  
+- Navegação consistente entre telas  
+- Fluxos curtos, com poucos passos  
+
+Assim, mesmo durante momentos de distração, o usuário consegue entender rapidamente a interface e retomar o uso sem se perder.
 
 ---
 
