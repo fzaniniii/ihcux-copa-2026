@@ -134,4 +134,4 @@ O design do protótipo foi pensado com base em princípios de IHC e usabilidade 
 
 ## 📸 Protótipo
 
-![Protótipo CopaNaMão](./prototipo/ihcux-copa-2026.jpg)
+![Protótipo CopaNaMão](./prototipo/prototipo.png)
