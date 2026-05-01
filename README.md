@@ -9,7 +9,7 @@
 
 **Curso:** Análise e Desenvolvimento de Sistemas (ADS)  
 **Instituição:** Centro Universitário UNA – Belo Horizonte  
-
+ 
 ---
 
 ## 💡 Problema Focado
